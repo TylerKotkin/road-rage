@@ -7,4 +7,4 @@ Road Rage is designed to simulate the traffic over a 1km distance of road in ord
 -To properly run Road Rage, the user must install the requirements contained in requirements.txt.
 * Enter 'pip install -r requirements.txt' to downloaded the the contents of requirements.txt.
 
--The user can download the ipython notebook to re-run the Road Rage simulation and create new data. The user can also access the classes used in the simulation by importing from road_rage.py.
+-The user can can view the Road Rage simulation findings by opening the ipython notebook (road-rage.ipynb). The user can also access the classes used in the simulation by importing from road_rage.py.
