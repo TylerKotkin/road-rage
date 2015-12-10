@@ -19,6 +19,6 @@ Road Rage is designed to simulate the traffic over a 1km distance of road in ord
 
 * The Road Rage notebook can be viewed on GitHub or downloaded to the users computer.
 * Before the user can view the Road Rage notebook on their computer or run the Road Rage simulations, the user must first clone the road-rage repo onto their computer. The user must have Python 3 installed.
-* To properly run the notebook, the contents of requirements.txt must be installed in the folder the notebook will be running from.
+* To properly run the program, the contents of requirements.txt must be installed.
   * After navigating to the folder containing `road-rage.ipynb` and `road_rage.py`, enter `pip install -r requirements.txt` on the command-line to download the contents of requirements.txt.
 * The user can then enter `ipython notebook road-rage.ipynb` on the command-line to view the notebook or run the Road Rage simulations.
